@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bishalroybd
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, automation
 - 🌱 I’m currently learning deep learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...ML, AI and Data Science
 - 📫 How to reach me ...sec.bishalroy@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
