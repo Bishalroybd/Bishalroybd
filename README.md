@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building IoT-based sensing systems, weather forecasting models, and AI-driven energy optimization tools.<br><br>👯 I’m looking to collaborate on<br><br>Projects involving machine learning, embedded hardware, renewable energy systems, computer vision, or IoT platforms.<br><br>🤝 I’m looking for help with<br><br>Improving sensor calibration techniques, implementing edge AI, and optimizing real-time forecasting pipelines.<br><br>🌱 I’m currently learning<br><br>Advanced deep learning architectures, power system safety, and scalable cloud deployment for sensor networks.<br><br>💬 Ask me about<br><br>IoT hardware design, ML model tuning, weather data analytics, embedded communication protocols, and energy forecasting.<br><br>⚡ Fun fact<br><br>I love turning random ideas into working prototypes—whether it’s a weather station, an inverter, or a smart home sensor!
+# 💫 About Me
+
+🔭 **I’m currently working on**  
+Deep learning–based forecasting models, PV system performance analysis, and AI-driven solutions for power and energy engineering.
+
+👯 **I’m looking to collaborate on**  
+Projects involving deep learning, solar PV systems, energy optimization, smart grids, and electrical engineering applications of AI.
+
+🤝 **I’m looking for help with**  
+Advanced energy modeling techniques, large-scale dataset handling, and improving robustness in AI-driven power system analysis.
+
+🌱 **I’m currently learning**  
+Grid integration of renewable energy, power system safety and protection, LSTM/Transformer architectures, and advanced optimization methods.
+
+💬 **Ask me about**  
+PV system modeling, deep learning workflows, energy forecasting, electrical system design, and EEE-focused applied AI.
+
+⚡ **Fun fact**  
+I love experimenting with engineering ideas—whether it's analyzing PV performance, designing power electronics, or training models to predict the weather and energy demand!
+
 
 
 ## 🌐 Socials:
